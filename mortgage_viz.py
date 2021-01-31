@@ -111,7 +111,7 @@ PHASES = [
   phase("exchanging", "Settlement", phase_tasks = {
      "begin_ordering_furniture","sign_the_contract",
      "begin_arranging_movers", "move_in",
-     "furnish_your_place"
+     "furnish_your_place", "pay_conveyancer"
   })
 ]
 
